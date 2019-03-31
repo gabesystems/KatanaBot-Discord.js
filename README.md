@@ -1,5 +1,5 @@
 # KatanaBot
-> This is a simple discord bot made for Pterodacty.
+> This is a simple discord bot made for Pterodactyl.
 
 This discord bot was designed for the amazing Pterodactyl game panel.
 
