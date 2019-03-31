@@ -5,4 +5,4 @@ This discord bot was designed for the amazing Pterodactyl game panel.
 
 ## Open Source
 
-Feel free to clone this repository and edit what you want. If you want to add contributions to this project free free to create a pull request.
+Feel free to clone this repository and edit what you want. If you want to add contributions to this project feel free to create a pull request.
