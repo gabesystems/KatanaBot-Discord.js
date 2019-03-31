@@ -1,21 +1,11 @@
 {
-  "name": "katanadiscordbot",
+  "name": "katana-bot",
   "version": "1.0.0",
-  "description": "This bot is designed for Pterodactyl game panel and is a simple administration / fun bot.",
+  "description": "A simple Discord.js bot made for Pterodactyl.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gabesystems/KatanaBot-Discord.js.git"
-  },
+  "repository": "https://github.com/gabesystems/KatanaBot-Discord.js",
   "author": "GabeSystems",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gabesystems/KatanaBot-Discord.js/issues"
-  },
-  "homepage": "https://github.com/gabesystems/KatanaBot-Discord.js#readme"
   "dependencies": {
     "discord.js": "^11.3.2"
   }
