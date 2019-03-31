@@ -16,4 +16,7 @@
     "url": "https://github.com/gabesystems/KatanaBot-Discord.js/issues"
   },
   "homepage": "https://github.com/gabesystems/KatanaBot-Discord.js#readme"
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
 }
